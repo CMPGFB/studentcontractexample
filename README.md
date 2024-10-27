@@ -124,10 +124,9 @@ Here's a typical sequence of operations:
 
 ## Need Help?
 
-- Watch the walkthrough video here: 
-- Consult the Clarity documentation book
-- Try using AI tools like Claude or ChatGPT for code auditing
-- Contact: Christopher@NoCodeClarity.com
+- Watch the walkthrough video here: https://www.youtube.com/watch?v=9xlOQBXgEVA&t=0s 
+- Consult the Clarity documentation book: https://book.clarity-lang.org/
+- Try using AI tools like Claude or ChatGPT for code auditing, if needed. 
 
 ## Full Contract Code
 ```clarity
